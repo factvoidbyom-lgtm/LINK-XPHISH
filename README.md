@@ -57,4 +57,4 @@ python link-x.py
 
 ## Note:
 * This tool is only for Educational Purpose
-* ToxicNoob Inc. will not be responsible for any Misuse
+* BRAHMAN OM  will not be responsible for any Misuse
