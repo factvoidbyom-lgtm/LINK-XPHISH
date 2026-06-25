@@ -49,7 +49,7 @@ TOOL 🔥 IS MADE BY OM BRAHMAN
 apt update -y
 apt upgrade -y
 pkg install python git -y
-git clone https://github.com/factvoidbyom-lgtm/Link-x-phishing-.git
+git clone https://github.com/factvoidbyom-lgtm/LinkX-PHISHER.git
 cd Link-X
 python setup.py
 python link-x.py
